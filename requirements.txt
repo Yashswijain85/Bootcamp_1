@@ -1,0 +1,4 @@
+pandas
+TextBlob
+scikit-learn
+nltk
