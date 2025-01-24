@@ -2,3 +2,4 @@ pandas
 TextBlob
 scikit-learn
 nltk
+gensim
